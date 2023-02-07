@@ -2,6 +2,8 @@
 
 
 Follow: https://www.jenkins.io/doc/book/installing/kubernetes/
+Ref: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 Installed jenkins in aks cluster
 Follow above link
 I have done two changes requires in service.yaml file and deployment.yaml file
