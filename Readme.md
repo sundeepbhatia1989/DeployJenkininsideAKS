@@ -1,3 +1,7 @@
+kubectl create namespace jenkin-namespace #config is created
+volume.yaml  #presistent volume claim(jenkins-pv-claim), presistent volume(jenkins-pv-volume), storage classes: (local storage)
+deployment.yaml  #deployment, 2 pods created, 2 replicat set
+###Loadbalancer..... Accessing Jenkins Using Kubernetes Service
 
 
 
